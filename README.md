@@ -1,11 +1,9 @@
+# My First Allocator
+
 *December 29, 2025*
 
-My first ever Allocator!
-
-I did some research and I think it's the Raw Allocator.
-
-This is probably my last project of 2025, so I wish you all a wonderful end to the year.
-
+Minimal Raw Allocator in C++.
+Probably my last project of 2025—wishing you a great end of year!
 It's not very impressive, but we all start somewhere, right?
 
 ```console
