@@ -2,7 +2,7 @@
 
 <p align="center"><em>It's my first allocator ever • December 29, 2025</em></p>
 
-<p align="center"><br>
+<p align="center">
 Probably my last project of 2025, wishing you a great end of year!<br>
 It's not very impressive, but we all start somewhere, right?
 </p>
