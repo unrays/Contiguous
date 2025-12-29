@@ -1,6 +1,6 @@
 <h1 align="center">Contiguous</h1>
 
-<h2 align="center">My First Allocator</h2>
+<h3 align="center">My First Allocator</h2>
 
 <p align="center"><em>December 29, 2025</em></p>
 
