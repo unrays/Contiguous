@@ -1,3 +1,10 @@
+My first ever Allocator!
+
+I did some research and I think it's the Raw Allocator.
+
+This is probably my last project of 2025, so I wish you all a wonderful end to the year.
+
+It's not very impressive, but we all start somewhere, right?
 
 ```console
 Max Point objects in memory: 2305843009213693951
