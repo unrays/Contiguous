@@ -3,7 +3,7 @@
 <p align="center"><em>December 29, 2025</em></p>
 
 <p align="center">Minimal Raw Allocator in C++.<br>
-Probably my last project of 2025—wishing you a great end of year!
+Probably my last project of 2025, wishing you a great end of year!
 It's not very impressive, but we all start somewhere, right?</p>
 
 
