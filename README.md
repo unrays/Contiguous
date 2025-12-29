@@ -1,9 +1,11 @@
-<h1 align="center">My First Allocator</h1>
+<h1 align="center">Contiguous</h1>
+
+<h2 align="center">My First Allocator</h2>
 
 <p align="center"><em>December 29, 2025</em></p>
 
 <p align="center">Minimal Raw Allocator in C++.<br>
-Probably my last project of 2025, wishing you a great end of year!
+Probably my last project of 2025, wishing you a great end of year!<br>
 It's not very impressive, but we all start somewhere, right?</p>
 
 
