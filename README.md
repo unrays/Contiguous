@@ -4,7 +4,7 @@
 
 <p align="center">
 Probably my last project of 2025, wishing you a great end of year!<br>
-It's not very impressive, but we all start somewhere, right?<br>
+It's not very impressive, but we all start somewhere, right?<br><br>
 I plan to learn and understand all the allocators<br> 
 in order to create a small allocator library using TMP and CRTP Mixin ;)
 </p>
